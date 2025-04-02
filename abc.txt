@@ -1,1 +1,1 @@
-"Hello World"
+Good Morning all! Today we will learn Git
